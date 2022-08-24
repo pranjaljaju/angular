@@ -2,11 +2,11 @@
   "name": "angular-srcs",
   "version": "14.3.0-next.0",
   "private": true,
-  "description": "Angular - a web framework for modern web apps",
+  "description": "Angular - a web framework for modern web apps pranjal",
   "homepage": "https://github.com/angular/angular",
   "bugs": "https://github.com/angular/angular/issues",
   "license": "MIT",
-  "//engines-comment": "Keep this in sync with /aio/package.json and /aio/tools/examples/shared/package.json",
+  "//engines-comment": "Keep this in sync with /aio/package.json and /aio/tools/examples/shared/package.json z",
   "engines": {
     "node": "^14.15.0 || >=16.10.0",
     "yarn": ">=1.22.4 <2",
